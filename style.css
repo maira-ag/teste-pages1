@@ -1,0 +1,17 @@
+.code-container {
+    background: #272822;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    overflow-x: auto;
+}
+
+pre {
+    margin: 0;
+}
+
+code {
+    color: #f8f8f2;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
